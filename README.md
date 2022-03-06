@@ -42,17 +42,17 @@ Visual Studio Code
 
 ##### 3.1 - Utilizando yarn
 
-  # Instalar as dependências
+ ##### #Instalar as dependências
   ❯ yarn
 
-  # Iniciar o projeto
+###### Iniciar o projeto
   ❯ yarn dev:server
   
 ##### 3.2 - Utilizando npm
 
-  # Instalar as dependências
+ ###### Instalar as dependências
   ❯ npm install
 
-  # Iniciar o projeto
+ ###### Iniciar o projeto
   ❯ npm start
 
