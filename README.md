@@ -28,7 +28,7 @@ Deploy pelo surge:
 ### IDE
 Visual Studio Code
 
-package ### Como utilizar o projeto
+### Como utilizar o projeto
 
   # 1- Clonar o repositório
   ❯ git clone git@github.com:andreyna1808/AndreynaCoodesh.git 
