@@ -11,8 +11,7 @@
 ### Autora
   [<img src="https://avatars.githubusercontent.com/u/87716793?v=4" width=115><br><sub>Andreyna Carvalho</sub>](https://github.com/andreyna1808)
 
-### Acesse ao projeto:
-Deploy pelo surge: 
+### Veja o projeto: cowardly-page.surge.sh
 
 
 ### IMAGEM EM DESKTOP E MOBILE
