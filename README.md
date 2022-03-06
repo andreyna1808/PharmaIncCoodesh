@@ -32,7 +32,7 @@ Visual Studio Code
 
 ##### 1- Clonar o repositório
   ❯ git clone git@github.com:andreyna1808/AndreynaCoodesh.git 
-  ou
+  ❯ Ou...
   ❯ git clone https://github.com/andreyna1808/AndreynaCoodesh.git
 
   ##### 2- Entrar no diretório
@@ -42,7 +42,7 @@ Visual Studio Code
 
 ##### 3.1 - Utilizando yarn
 
- ##### #Instalar as dependências
+ ###### Instalar as dependências
   ❯ yarn
 
 ###### Iniciar o projeto
