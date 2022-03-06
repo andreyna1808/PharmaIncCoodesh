@@ -8,7 +8,7 @@
 - `Funcionalidade 3`: Filtrar por nome, nacionalidade e gênero (problema que não suporta manter todos os parâmetros)
 - `Funcionalidade 4`: Responsivo para mobile.
 
-## Autora
+### Autora
   [<img src="https://avatars.githubusercontent.com/u/87716793?v=4" width=115><br><sub>Andreyna Carvalho</sub>](https://github.com/andreyna1808)
 
 ### Acesse ao projeto:
@@ -30,17 +30,17 @@ Visual Studio Code
 
 ### Como utilizar o projeto
 
-  # 1- Clonar o repositório
+##### 1- Clonar o repositório
   ❯ git clone git@github.com:andreyna1808/AndreynaCoodesh.git 
   ou
   ❯ git clone https://github.com/andreyna1808/AndreynaCoodesh.git
 
-  # 2- Entrar no diretório
+  ##### 2- Entrar no diretório
   ❯ cd AndreynaCoodesh
   
-### 3- Para instalar as dependências e iniciar o projeto, você pode utilizar o Yarn ou NPM:
+##### 3- Para instalar as dependências e iniciar o projeto, você pode utilizar o Yarn ou NPM:
 
-### 3.1 - Utilizando yarn
+##### 3.1 - Utilizando yarn
 
   # Instalar as dependências
   ❯ yarn
@@ -48,7 +48,7 @@ Visual Studio Code
   # Iniciar o projeto
   ❯ yarn dev:server
   
-### 3.2 - Utilizando npm
+##### 3.2 - Utilizando npm
 
   # Instalar as dependências
   ❯ npm install
