@@ -39,6 +39,8 @@ Visual Studio Code
   ##### 2- Entrar no diretório
   ❯ cd AndreynaCoodesh
   
+  ❯ cd coodesh
+  
 ##### 3- Para instalar as dependências e iniciar o projeto, você pode utilizar o Yarn ou NPM:
 
 ##### 3.1 - Utilizando yarn
