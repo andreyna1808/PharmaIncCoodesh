@@ -32,6 +32,7 @@ export const ImgDetail = styled.img`
 	border-radius: 120px;
 	display: flex;
 	margin: auto;
+	border-image: linear-gradient(90deg, rgba(255,60,115,1), rgba(2,211,215,1), rgba(0,85,137,1) 100%) 1;
 `;
 
 export const ContainerInfo = styled.div``;
@@ -44,10 +45,16 @@ export const Name = styled.h1`
 
 export const InfoGrid = styled.div`
 	display: grid;
-	grid-template-columns: 1fr 1fr 1fr;
+	grid-template-rows: 1fr 1fr 1fr;
   @media (max-width: 700px) {
     display: flex;
     flex-direction: column;
     margin: 5% 0;
 	}
 `;
+export const DivSpace = styled.div`
+	border-left: 5px solid;
+	margin: 1%;
+	padding: 0 1%;
+	border-image: linear-gradient(180deg, rgba(255,60,115,1), rgba(2,211,215,1), rgba(0,85,137,1) 100%) 1;
+`

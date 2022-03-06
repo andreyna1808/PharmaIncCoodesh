@@ -5,7 +5,7 @@ import Modal from '@mui/material/Modal';
 import Fade from '@mui/material/Fade';
 import Typography from '@mui/material/Typography';
 import { Button } from '@mui/material';
-import { ContainerAll, ContainerInfo, ImgDetail, InfoGrid, Name, ViewDetail } from './styledPatinentDetail';
+import { ContainerAll, ContainerInfo, DivSpace, ImgDetail, InfoGrid, Name, ViewDetail } from './styledPatinentDetail';
 
 const style = {
 	position: 'absolute',
@@ -57,23 +57,23 @@ export default function PatientDetail({ info }) {
 									{info.name.title}: {info.name.first} {info.name.last}
 								</Name>
 								<InfoGrid>
-									<div>
+									<DivSpace>
 										<p>E-mail: {info.email}</p>
 										<p>Cell: {info.cell}</p>
 										<p>Phone: {info.phone}</p>
-									</div>
-									<div>
+									</DivSpace>
+									<DivSpace>
 										<p>Gender: {info.gender}</p>
 										<p>Birth: {convertDate(info.dob.date)}</p> 
 										<p>Age: {info.dob.age}</p> 
-									</div>
-									<div>
+									</DivSpace>
+									<DivSpace>
 									<p>Country: {info.location.country}, Nat.: {info.nat}</p>
 									<p>
 										Adress: State: {info.location.state}, Postcode: {info.location.postcode},
 										Street: {info.location.street.name}, Number: {info.location.street.number}
 									</p>
-									</div>
+									</DivSpace>
 								</InfoGrid>
 							</ContainerInfo>
 						</Typography>
