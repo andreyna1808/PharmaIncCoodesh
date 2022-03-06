@@ -32,7 +32,9 @@ Visual Studio Code
 
 ##### 1- Clonar o repositório
   ❯ git clone git@github.com:andreyna1808/AndreynaCoodesh.git 
-  ❯ Ou...
+  
+   Ou...
+   
   ❯ git clone https://github.com/andreyna1808/AndreynaCoodesh.git
 
   ##### 2- Entrar no diretório
