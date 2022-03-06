@@ -25,7 +25,35 @@ Deploy pelo surge:
 - Sistema de Rotas
 - Styled-Components
 
-### Como instalar o projeto
-## 1 - Clone o projeto apertanto o botão verde de Code e copiando o link para clonar no terminal.
-## 2 - Abra o o projeto e de um npm install (para instalar todas as dependências)
-## 3 - Por fim, abra o projeto com npm start
+### IDE
+Visual Studio Code
+
+package 
+### Como utilizar o projeto
+
+  # 1- Clonar o repositório
+  ❯ git clone git@github.com:andreyna1808/AndreynaCoodesh.git 
+  ou
+  ❯ git clone https://github.com/andreyna1808/AndreynaCoodesh.git
+
+  # 2- Entrar no diretório
+  ❯ cd AndreynaCoodesh
+  
+### 3- Para instalar as dependências e iniciar o projeto, você pode utilizar o Yarn ou NPM:
+
+### 3.1 - Utilizando yarn
+
+  # Instalar as dependências
+  ❯ yarn
+
+  # Iniciar o projeto
+  ❯ yarn dev:server
+  
+### 3.2 - Utilizando npm
+
+  # Instalar as dependências
+  ❯ npm install
+
+  # Iniciar o projeto
+  ❯ npm start
+
