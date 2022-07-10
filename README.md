@@ -1,6 +1,6 @@
 # Pharma Inc.
 
-### Repositório do desafio de contratação da CODESH
+### Repositório do desafio de contratação da COODESH
 
 ## :hammer: Funcionalidades do projeto
 - `Funcionalidade 1`: Visualizar uma lista inicial com 50 pacientes, podendo visualizar mais 50 sempre que clicado no botão.
